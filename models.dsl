@@ -1,4 +1,4 @@
-workspace  extends relarions.dsl {
+workspace  extends relations.dsl {
     model {
 
         customer = person "Personal Banking Customer" "A customer of the bank, with personal bank accounts." "Customer"
